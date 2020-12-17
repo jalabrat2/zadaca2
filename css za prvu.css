@@ -1,0 +1,31 @@
+h1{
+	background-color:#00ffff;
+	color:#FFFFFF;
+}
+p{
+	color:#ffff00;
+}
+p{
+	background-color:#800000;
+}
+h2{
+	background-color:#808080;
+	color:#0000ff;
+}
+ul{
+	background-color:#ffff00;
+	color:#FF0000;
+}
+a:link{
+	background-color:#ffff00;
+	color:FF0000;
+}
+.svijetlocrvena{
+	background-color:#FF0000;
+}
+.tamnocrvena{
+	background-color:#800000;
+}
+#drugi{
+	background-color:#FF0000;
+}
